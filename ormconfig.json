@@ -1,10 +1,10 @@
 {
    "type": "postgres",
-   "host": "localhost",
+   "host": "topsy.db.elephantsql.com",
    "port": 5432,
-   "username": "masum",
-   "password": "masum1011",
-   "database": "test",
+   "username": "swdocpqh",
+   "password": "A_wVEPHRw7kxMsZj0elb--Ludubo6MzA",
+   "database": "swdocpqh",
    "synchronize": true,
    "logging": true,
    "entities": [
